@@ -1,0 +1,22 @@
+1. Find the domain and range of the following function: g(x) = 2√x-4
+
+Solution:
+x-4 ≥ 0
+x ≥ 4
+
+!!! The expression inside the root cannot be negative !!!
+
+Domain: [4 ; ∞ )
+
+Since the expression inside the root al always non negative , smallest value of √x-4 can be 0, when x = 4
+
+g(4) = 2√4-4 = 2 * 0 = 0
+
+as x = ∞ , g(x) = ∞
+
+!!! The range of g(x) is all non-negative real numbers!!!
+
+Range: [ 0; ∞ )
+
+
+
