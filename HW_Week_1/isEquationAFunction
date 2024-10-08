@@ -1,0 +1,22 @@
+Determine if each of the following equations are functions:
+
+a. y = x^2 + 1
+
+If we replace 𝓍 with any other number , 𝓍 will give only one answer for 𝓎
+for example:
+y = 2^2 + 1           or y = 3^3 + 1
+y = 5                    y = 10
+
+b. y^2 = x + 1
+
+If we replace 𝓍 with any other number, we get two different values for 𝓎, one positive and one negative.
+This violates the rule of functions. Therefore, y^2 = x + 1 is not a function, because a single value of
+𝓍  gives two different values of 𝓎
+
+for example:
+y^2 = 3 + 1
+y = ±√ 4
+y = ± 2
+
+
+NOTE: A function stats , that for each value of 𝓍, there will be only one value of 𝓎.
