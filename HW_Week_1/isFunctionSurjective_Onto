@@ -5,7 +5,7 @@ Analysis:
 
 The function ƒ(n) = 3n maps any integer n to three times that integer.
 This means the output will always be a multiple of 3 (e.g., ..., -9, -6, -3, 0, 3, 6, 9, ...).
-Conclusion: This function is not surjective because there are integers in the codomain (like 1, 2, 4, 5, etc.) that are not mapped by any integer from the domain.
+This function is not surjective because there are integers in the codomain (like 1, 2, 4, 5, etc.) that are not mapped by any integer from the domain.
 
 2. 𝑔 : {1,2,3} ➝ defined by 𝑔 = (1 ➝ c, 2 ➝ a, 3 ➝ a)  -> This function is not surjective because 'b' is not covered by any element of the domain.
 
