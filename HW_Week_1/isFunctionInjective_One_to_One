@@ -1,0 +1,9 @@
+Which functions are injective (i.e., one-to-one)?
+
+1. ƒ : ℤ ➝ ℤ defined by ƒ(n) = 3n
+
+
+2. 𝑔 : {1,2,3} ➝ defined by 𝑔 = (1 ➝ c, 2 ➝ a, 3 ➝ a)
+
+
+3. ℎ : {1,2,3} ➝ {1,2,3} defined as follows: (1 ➝ 2, 2 ➝ 2, 3 ➝ 3) -> 
