@@ -6,8 +6,12 @@ and no two different inputs share the same output.
 
 2. 𝑔 : {1,2,3} ➝ defined by 𝑔 = (1 ➝ c, 2 ➝ a, 3 ➝ a)  ⬇︎
 This function is not injective because the outputs 'a' for inputs 2 and 3 are the same,
-meaning the same output 'a' comes from two different inputs (2 and 3)
+meaning the same output 'a' comes from two different inputs (2 and 3).
 
 3. ℎ : {1,2,3} ➝ {1,2,3} defined as follows: (1 ➝ 2, 2 ➝ 2, 3 ➝ 3)  ⬇︎
 This function is not injective because the output 2 is shared by two different inputs (1 and 2),
 meaning it fails the unique mapping criterion of injectivity.
+
+-------------------------------------------------------------------------------------------------
+
+An injective function ensures that no two different inputs should map to the same output.
