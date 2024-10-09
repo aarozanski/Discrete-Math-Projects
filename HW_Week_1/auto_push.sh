@@ -20,7 +20,7 @@ while true; do
     git add .
 
     # Commit with a timestamp
-    git commit -m "Auto-commit for Discrete mathematics project: $(date)"
+    git commit -m "Auto-commit for discrete mathematics project: $(date)"
 
     # Push to GitHub
     git push origin main
