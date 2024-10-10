@@ -2,4 +2,16 @@ Find the domain and range of the following functions:
 
 ƒ(𝓍) = x - 4 / x^2 - 2x - 15
 
-x^2 - 2x - 15 
+x^2 - 2x - 15 ≠ 0
+
+numerator - the top number
+denominator - the bottom number
+
+ax^2 + bx + c = 0
+a = 1  b = -2  c = -15
+D = b^2 - 4ac
+
+
+
+D = 2*2 - 4*1*(-15) = 4 - (-60) = -64
+
