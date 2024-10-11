@@ -1,2 +1,7 @@
 Evaluate the following piecewise-defined function for the given values of 𝓍 , and graph the function
 
+ƒ(𝓍) = { -2𝓍 + 1     -1 ≤ 𝓍 < 0
+       { x^2 + 2      0 ≤ 𝓍 ≤ 2
+
+𝓍 | -1 | -0.5 |  0 - cross      -2
+𝓎 |  3 |   2  |  1 - cross
