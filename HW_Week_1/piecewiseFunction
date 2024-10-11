@@ -1,6 +1,6 @@
 Evaluate the following piecewise-defined function for the given values of 𝓍 , and graph the function
 
-ƒ(𝓍) = { -2𝓍 + 1     -1 ≤ 𝓍 < 0   - the endpoint at 𝓍=0 is open
+ƒ(𝓍) = { -2𝓍 + 1     -1 ≤ 𝓍 < 0   - the endpoint at 𝓍=0 is an open circle
        { x^2 + 2      0 ≤ 𝓍 ≤ 2   - both endpoints are closed
 
 -2𝓍 + 1
