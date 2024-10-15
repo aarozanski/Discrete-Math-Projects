@@ -1,0 +1,24 @@
+system of linear functions with x and y unknown, need to solved simultaneously
+in curly braces:
+2x + y = 7
+x - 2y = 6
+
+y = 7 - 2x -> moved 2x to the right side with negative sign
+x - 2y = 6  -> leaving this function as it is for now
+
+x - 2( 7 - 2x ) = 6 -> replaced 𝓎 with (7 - 2x)
+x - 14 + 4x = 6
+x + 4x = 6 + 14
+5x = 20 -->  divide by 5
+x = 4 --> the answer for x
+
+now we have to find y :   y = 7 - 2x , by replacing x with 4
+y = 7 - 2*4
+y = -1 --> the answer for y
+
+
+
+
+
+
+
