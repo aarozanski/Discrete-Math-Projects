@@ -1,2 +1,18 @@
 Solve x(x+3)^2(x-4)<0
 
+I need to identify critical points, where f(x) = 0:
+x < 0              x+3 < 0             x-4 < 0
+x = 0              x = -3              x = 4
+
+we can draw on the line and identify / mark these critical points
+
+we can select numbers which are less than -3 , between -3 and 0 , between 0 and 4 , and more than 4
+
+
+
+Answer: ( 0,4 )
+The function is negative for x values in between 0 and 4
+
+
+
+
