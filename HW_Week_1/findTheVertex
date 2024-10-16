@@ -4,9 +4,20 @@ Find the vertex of the quadratic function:
 
 y = ax^2 + bx + c
 
-to find the vertex of ƒ(x) we need to use this formula:
+1. to find the vertex of ƒ(x) we need to use this formula (Nado nayti X koordinatu vershiny):
 
-x = -b / 2a
+1. x = -b / 2a
+
+   x = - 6 / 2*2 = -3/2
+
+2. now we need to plot -3/2 to x in the formula:
+
+y = ax^2 + bx + c
+
+y = 2*(-3/2)^2 - 6*(-3/2) + 7
+
+
+
 
 Rewrite the quadratic in standard form (vertex form)
 
