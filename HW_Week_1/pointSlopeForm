@@ -16,7 +16,16 @@ y - 1 = 2(x - 5)
 
 This is the point-slope form of an equation
 
-Now let's find the slope-intercept form  ( :
+Now let's find the slope-intercept form  (naklonno-peresencheskaya forma uravneniy), which "y" point:
+Let's take this form and solve it:
+
+y - 1 = 2(x - 5) / move -1 to right side
+y = 2(x - 5) + 1
+y = 2x - 10 + 1
+y = 2x - 9
+
+This is the point-slope form of an equation: y = 2x - 9 ,we can plot any number to x and find y with this formula :)
+
 
 
 
