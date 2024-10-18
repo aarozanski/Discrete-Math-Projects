@@ -1,0 +1,15 @@
+Find the domain of:
+
+(f*g) (x), where f(x) = 5/x-1 and g(x) = 4/3x-2
+
+denominator can't be 0 ,  denominator≠0
+x-1 ≠ 0              3x-2 ≠ 0
+x=1 ≠ 0              3x ≠ 2
+f(x) ->1             g(x) -> x ≠ 2/3
+
+
+
+
+
+
+
