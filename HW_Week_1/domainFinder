@@ -9,7 +9,24 @@ f(x) -> ≠ 1           g(x) -> ≠ 2/3
 
 f(g(x)) = f(4/3x-2) = 5 / 4/3x-2 -1
 
-4/3x-2 -1   
+4/3x-2 -1 ≠ 0    basically 1 is 3x-2/3x-2
+
+4-(3x-2) / 3x-2
+4-3x+2 / 3x-2
+6-3x /3x-2
+
+6-3x = 0                                3x-2=0
+-3x = -6 --> divide by -3               3x=2
+x = 2                                   x=2/3
+
+Answer: f(g(x)) R \ {2/3, 2}
+
+Tak kak perviy primer nam daet resultat 1 , chto pri 1 delenie perehodit na 0, a na nol nelzya delit , poetomu
+my doljny isklyuchit i psotavit 1 na uravnenie s g(x) i uznat kakie chisla nelzya isklyuchit, kogda isplozuem 1
+
+
+
+
 
 
 
