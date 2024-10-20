@@ -19,7 +19,12 @@ f(g(x)) = f(4/3x-2) = 5 / 4/3x-2 -1
 -3x = -6 --> divide by -3               3x=2
 x = 2                                   x=2/3
 
-Answer: f(g(x)) R \ {2/3, 2}
+Answer:
+Domain of f(g(x)) R \ {2/3, 2}
+
+This means that: x ≠ 2/3 or x ≠ 2
+Interval notation: ( -∞, 2/3) ∪ (2/3, 2) ∪ ( 2, ∞)
+
 
 Tak kak perviy primer nam daet resultat 1 , chto pri 1 delenie perehodit na 0, a na nol nelzya delit , poetomu
 my doljny isklyuchit i psotavit 1 na uravnenie s g(x) i uznat kakie chisla nelzya isklyuchit, kogda isplozuem 1
