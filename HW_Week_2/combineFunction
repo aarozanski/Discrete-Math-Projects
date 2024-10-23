@@ -1,0 +1,20 @@
+Find and simplify the functions (g-f)(x) and (g/f)(x), given:
+ f(x) = x-1
+ g(x) = x^2 - 1
+
+ Are they the same function?
+
+1. (g-f)(x)
+(x^2 - 1)-(x-1)
+x^2 - 1 -x +1  ---> -1 and 1 will be cancelled
+x^2 - x
+
+2. (g/f)(x)
+x^2 - 1 / x-1
+(x+1)(x-1) / x-1   ---> x-1 will be cancelled
+x+1
+
+Answer : These functions are NOT the same
+
+1. (g-f)(x) = x^2 - x
+2. (g/f)(x) = x+1

@@ -1,0 +1,20 @@
+Which functions are surjective (i.e., onto) ?
+
+1. ƒ : ℤ ➝ ℤ defined by ƒ(n) = 3n
+Analysis:
+
+The function ƒ(n) = 3n maps any integer n to three times that integer.
+This means the output will always be a multiple of 3 (e.g., ..., -9, -6, -3, 0, 3, 6, 9, ...).
+This function is NOT surjective because there are integers in the codomain (like 1, 2, 4, 5, etc.) that are not mapped by any integer from the domain.
+
+2. 𝑔 : {1,2,3} ➝ defined by 𝑔 = (1 ➝ c, 2 ➝ a, 3 ➝ a)  -> This function is NOT surjective because 'b' is not covered by any element of the domain.
+
+3. ℎ : {1,2,3} ➝ {1,2,3} defined as follows: (1 ➝ 2, 2 ➝ 2, 3 ➝ 3) -> This function is NOT surjective because '1' is not covered by any element of the domain.
+
+-----------------------------------------------------------------------------------------------------------
+If a function 𝑓 maps elements from set 𝐴 to set 𝐵, then the function is surjective if:
+
+Every element in 𝐵 has at least one element in 𝐴 that maps to it.
+
+A surjective function ensures that every element in the output set is hit by at least one element from the input set.
+If there are elements in the output set that don’t get mapped, then the function is not surjective.

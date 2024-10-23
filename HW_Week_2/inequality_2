@@ -1,0 +1,40 @@
+Solve the inequality, graph the solution set on a number line and show the solution set in interval notation:
+
+a.
+
+-1 ≤ 2x -5 < 7
+
+-1 ≤ 2x -5     and  2x -5 < 7
+-2x ≤ -5+1          2x < 7+5
+x≥2                  x < 6
+
+2≤X<6
+Answer: x ∈ [2,6)
+
+b.
+
+x^2 +7x + 10 < 0
+we need to use the formula of quadratic equation
+ax^2 +bx +c
+
+D = b^2 - 4ac
+D = 7^2 - 4*1*10 = 49 - 40
+D = 9
+
+x = -b ± √D / 2a
+x, = -2
+x„ = -5
+
+X ∈ (-5,-2)
+
+
+c.
+
+-6 < x -2 < 4
+
+-6 < x -2          x -2 < 4
+-x < -2+6v         x< 4+2
+-x< 4              x<6
+x>-4
+
+X ∈ (-4,6)

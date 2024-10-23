@@ -1,0 +1,26 @@
+Find the domain and range of the following functions:
+
+ƒ(𝓍) = x - 4 / x^2 - 2x - 15
+
+x^2 - 2x - 15 ≠ 0
+
+numerator - the top number
+denominator - the bottom number
+
+𝑎𝓍^2 + 𝑏𝓍 + 𝑐 = 0
+a = 1  b = -2  c = -15
+
+𝐷 = 𝑏^2 - 4𝑎𝑐
+D = -2^2 - 4*1*(-15) = 4 - (-60) = -64 = ±√8
+
+𝓍,= -𝑏 ± √𝐷 / 2𝑎
+
+𝓍, = 2+8/2*1 = 10/2 = 5
+𝓍„ = 2-8/2*1 = -6/2 = -3
+
+Domain: (-∞, -3) ∪ (-3, 5) ∪ (5, ∞)
+
+-----------------------------------------------------------------------------
+
+The denominator can't be equal to ZERO ≠ 0
+

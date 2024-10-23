@@ -1,0 +1,16 @@
+Find the slope of the line that passes through the points (-1,2) and (3,-4). Plot the points and graph the line
+
+𝓂 =  𝓎„ - 𝓎, / 𝓍„ - 𝓍,
+
+let (𝓍, 𝓎,) = (-1, 2)
+let (𝓍„ 𝓎„) = ( 3,-4)
+
+𝓂 = -4 - 2 / 3 - (-1)
+𝓂 = -6/4 = -3/2
+
+The slope of the line is : -3/2
+
+The graph was attached to this folder by name: findTheSlopeGraph
+The red points mark the given coordinates, and the orange line represents the line with the calculated slope.
+
+

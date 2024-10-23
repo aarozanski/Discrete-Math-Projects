@@ -1,0 +1,13 @@
+Is the function ƒ(s) = s^4 + 3s^2+7 even, odd or neither?
+
+1. We need to find first ƒ(-x) , by replacing x with -x
+ƒ(-s) = -(s)^4 + 3(-s)^2 +7
+ƒ(-s) = s^4 + 3s^2 +7
+
+2. We need to compare ƒ(-x) with ƒ(x) and -ƒ(x)
+  the function will be EVEN, if --> ƒ(-x) = ƒ(x):
+    ƒ(-s) = s^4 + 3s^2 +7  and ƒ(s) = s^4 + 3s^2+7 --> MATCH, which means the function is EVEN
+  the function will be ODD, if --> ƒ(-x) = -ƒ(x):
+   -ƒ(s) = -(s^4 - 3s^2 -7) and ƒ(s) = s^4 + 3s^2+7 don't MATCH , which means the function is not ODD
+
+The function is EVEN!!!

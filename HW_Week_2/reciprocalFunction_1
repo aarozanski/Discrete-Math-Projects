@@ -1,0 +1,13 @@
+Write a formula for a transformation of the toolkit reciprocal function
+
+f(x) = 1/x that shifts the function's graph one unit to the right and one unit up
+
+1. Shift Right: To shift the graph to the right by one unit, I replaced x with x-1 in the function.
+   Which makes the function:
+    f(x) = 1/ x-1
+
+2. Shift Up: To shift the graph up by one unit, I added 1 to the entire function.
+   This modifies it to:
+   f(x) = (1/ x-1) + 1
+
+   This formula shifts the reciprocal function 1/x one unit to the ➡︎ and one unit ⬆︎ on the coordinate plane
