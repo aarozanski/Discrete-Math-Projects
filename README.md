@@ -36,7 +36,7 @@ Before running any project from this section, ensure you have the following soft
 ## Setup and Installation
 
 1. Clone the repository to your local machine using Git:
-   git clone https://github.com/Jizelino/discrete-math-repo.git
+   git clone https://github.com/aarozanski/Discrete-Math-Projects
    cd discrete-math-repo
 
 2. Open the project in IntelliJ IDEA, Eclipse, or any Java IDE.
