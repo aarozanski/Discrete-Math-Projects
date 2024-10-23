@@ -6,4 +6,5 @@ Since h(x) is inside the f(x) , we need to find h(x)
 
 Now let's put the value 5
 
-f(5) 
+f(h(1)) = f(5)
+f(h(1)) = 
