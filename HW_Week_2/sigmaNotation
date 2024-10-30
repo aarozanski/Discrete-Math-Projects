@@ -4,4 +4,16 @@ S = 5 + 9 + 13 +...+ 89 in sigma notation
 
 I will use this general term formula:
 
-a
+A n = a + (n-1)* d
+where a = 5
+      d = 4
+
+A n = 5 + ( n-1 ) * 4
+A n = 5 + 4n - 4
+A n = 4n + 1
+4n + 1 = 89
+4n = 88
+n = 22
+
+
+
