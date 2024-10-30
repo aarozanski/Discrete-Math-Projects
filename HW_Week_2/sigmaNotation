@@ -11,6 +11,10 @@ where a = 5
 A n = 5 + ( n-1 ) * 4
 A n = 5 + 4n - 4
 A n = 4n + 1
+
+4n + 1 --> means, for any term number 𝑛, multiply 𝑛 by 4 and then add 1
+to get the value of that term in the sequence
+
 4n + 1 = 89
 4n = 88
 n = 22
