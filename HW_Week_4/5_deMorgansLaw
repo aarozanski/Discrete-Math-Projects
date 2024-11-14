@@ -9,4 +9,5 @@ d) Ibrahim is smart and hard working
 Answer:
 a) p - Jan is rich
    q - Jan is happy
-   it can be represented as p
+   it can be represented as p⋀q
+   De Morgan's first law ->
