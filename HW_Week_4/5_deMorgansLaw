@@ -7,7 +7,30 @@ c) Mei walks or takes the bus to class
 d) Ibrahim is smart and hard working
 
 Answer:
-a) p - Jan is rich
+a) Jan is rich and happy
+   p - Jan is rich
    q - Jan is happy
-   it can be represented as p⋀q
-   De Morgan's first law -> ¬p ⋁⋁¬g
+   it can be represented as --->  p⋀q
+   De Morgan's first law ---> ¬p⋁¬g
+   The negation of the statement is: "Jan is NOT rich OR NOT happy"
+
+b) Carlos will bicycle or run tomorrow
+   p - Carlos will bicycle
+   q - Carlos will run
+   it can be represented as --->  p⋁q
+   De Morgan's first law ---> ¬p⋀¬g
+   The negation of the statement is: "Carlos will NEITHER bicycle NOR run tomorrow"
+
+c) Mei walks or takes the bus to class
+   p - Mei walks
+   q - Mei takes the bus
+   it can be represented as --->  p⋁q
+   De Morgan's first law ---> ¬p⋀¬g
+   The negation of the statement is: "Mei NEITHER walks NOR takes the bus to class"
+
+d) Ibrahim is smart and hard working
+   p - Ibrahim is smart
+   q - Ibrahim is hard working
+   it can be represented as --->  p⋀q
+   De Morgan's first law ---> ¬p⋁¬g
+   The negation of the statement is: "Ibrahim is NOT smart OR NOT hard working"
