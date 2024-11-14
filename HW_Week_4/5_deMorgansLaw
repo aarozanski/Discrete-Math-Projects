@@ -10,4 +10,4 @@ Answer:
 a) p - Jan is rich
    q - Jan is happy
    it can be represented as p⋀q
-   De Morgan's first law -> ¬p  ¬g
+   De Morgan's first law -> ¬p ⋁⋁¬g
